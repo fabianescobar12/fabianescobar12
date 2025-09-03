@@ -1,4 +1,13 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Fabián Escobar  
+
+🌱 Interesado en la **Ciencia de Datos**, **Optimización**, **Inteligencia Artificial**, **Matemática** y el **Desarrollo Backend**.  
+💻 Soy Ingeniero Civil en Modelamiento Matemático de Datos.
+
+
+### 🌍 Conéctate conmigo
+- [LinkedIn](https://www.linkedin.com/in/fabián-escobar-6608a9284)  
+- ✉️ fabiantonio.e@gmail.com
+
 
 <!--
 **fabianescobar12/fabianescobar12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
