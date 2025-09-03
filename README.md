@@ -1,7 +1,7 @@
 # 👋 Hi! I'm Fabián Escobar  
 
 🌱 Interested in **Data Science**, **Optimization**, **Artificial Intelligence**, **Mathematics**, and **Backend Development**.  
-💻 I am a Civil Engineer in Mathematical Data Modeling.
+💻 I am a Engineer specialized in Mathematical Data Modeling (Applied Mathematics, Data Science, and Optimization)
 
 
 ### 🌍 Connect with me
